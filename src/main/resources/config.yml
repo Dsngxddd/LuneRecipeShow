@@ -1,0 +1,6 @@
+messages:
+  invalid-item: "Geçersiz eşya ismi. Lütfen geçerli bir eşya ismi girin."
+  no-recipe: "Bu eşya için bir yapım tarifi bulunamadı."
+  no-item-provided: "Lütfen bir eşya ismi girin."
+  non-player: "Bu komut sadece oyuncular tarafından kullanılabilir."
+  no-item-in-hand: "Elinizde bir eşya yok. Lütfen bir eşya tutun."

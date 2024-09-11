@@ -1,0 +1,8 @@
+name: LuneRecipeShow
+version: '${project.version}'
+main: net.cengiz1.lunerecipeshow.LuneRecipeShow
+author: cengiz1x
+api-version: '1.20'
+commands:
+  esyayapimi:
+    description: elindeki eşya yapimini gösterir
